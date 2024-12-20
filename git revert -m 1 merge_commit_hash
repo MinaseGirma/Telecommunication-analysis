@@ -1,0 +1,42 @@
+[33mcommit 36dd8147b0572cea66f3bcb5a25bf56d21685831[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtask-1[m[33m, [m[1;31morigin/task-1[m[33m)[m
+Merge: ffdd3f6 1ca36aa
+Author: Minase Taye <minasegirma5@gmail.com>
+Date:   Fri Dec 20 23:26:48 2024 +0300
+
+    Merge branch 'task-1' of https://github.com/MinaseGirma/Telecommunication-analysis into task-1
+
+[33mcommit ffdd3f63bb3e4076712a6925b04fa92538b209b3[m
+Author: Minase Taye <minasegirma5@gmail.com>
+Date:   Fri Dec 20 23:24:35 2024 +0300
+
+    add init
+
+[33mcommit 81030f7737c79d521ad6ec72da102c5454f503e6[m
+Author: Minase Taye <minasegirma5@gmail.com>
+Date:   Fri Dec 20 23:22:05 2024 +0300
+
+    add readme
+
+[33mcommit 1ca36aa97e241db89182b6d21846d1e8d7309e03[m
+Author: MinaseGirma <109416852+MinaseGirma@users.noreply.github.com>
+Date:   Fri Dec 20 23:20:31 2024 +0300
+
+    Delete notebooks directory
+
+[33mcommit 13124a7899acbe94cb48dcdfa34c83b56c0f1135[m
+Author: Minase Taye <minasegirma5@gmail.com>
+Date:   Fri Dec 20 22:45:41 2024 +0300
+
+    Load data and Eda analysis
+
+[33mcommit f794eaf4f70b6df1de99d5899f9e58ae02d3d1e0[m
+Author: Minase Taye <minasegirma5@gmail.com>
+Date:   Thu Dec 19 13:08:58 2024 +0300
+
+    structure
+
+[33mcommit 2cc0d3f91c16d395e9512f054bc2f3bba9e688a7[m
+Author: Minase Taye <minasegirma5@gmail.com>
+Date:   Thu Dec 19 11:39:11 2024 +0300
+
+    My commit
